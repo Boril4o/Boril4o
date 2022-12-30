@@ -5,7 +5,7 @@ I live in Dimitrovgrad, Bulgaria currently studying at SoftUni
 
 # 💫 About Me:
 ### 🌱 I’m currently learning
-- ASP.NET
+- HTML and CSS
 ### 📫 How to reach me
 - Gmail: borisgeorgievdg@gmail.com
 ### 🕹️ Free Time 
